@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasicApp</string>
+    <string name="edit_text">Enter Text</string>
+    <string name="button_speak">Say it!</string>
+    <string name="pitch_text">Pitch</string>
+    <string name="speed_text">Speed</string>
+    <!--<string-array name="drop_list">-->
+        <!--<item>male</item>-->
+        <!--<item>female</item>-->
+    <!--</string-array>-->
+</resources>
